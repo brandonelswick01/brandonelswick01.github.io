@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "2026-IVN-01"
+title: "2026-IVN-01 | Entry 2"
 date: 2026-02-20
 ---
-Incident Report ID:<a href="https://github.com/brandonelswick01/SOCPortfolio/blob/main/2026-IVN-01.md"></a>
+<title>2026-IVN-01 | Entry 2</title>
+Incident Report ID:<a href="https://github.com/brandonelswick01/SOCPortfolio/blob/main/2026-IVN-01.md">2026-IVN-01</a>
 
 Classification: High-Priority / Unauthorized Access Investigation
 
