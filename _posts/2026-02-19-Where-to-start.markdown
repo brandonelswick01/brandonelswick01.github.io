@@ -16,14 +16,14 @@ date: 2026-02-19
 <div id="pae">
 <h3>Planning, Action, Execution</h3>
 <h2>Planning:</h2>
-<p>When planning your future you should ask yourself "what do I want to do for my career?", this is where you'll start. We all start here. At first I wanted to build the next big thing. I was going to build an alternitive to Faceboook, then an alternitive to everything else. At one point I was even going to focus all my time and energy into a SaaS application I'm sure would've failed. I thought I was going to be the next Elon Musk, Mark Zuckerburg, and so on. What I sooned realized is that I ws not and I am not that. I was lost so I started a factory job, I knew how to code but I didn't think I could break into the idustry with my felony. That's until I realized private sectors can hire you. Then I started planning.</p>
+<p>When planning your future you should ask yourself "what do I want to do for my career?", this is where you'll start. We all start here. At first I wanted to build the next big thing. I was going to build an alternitive to Faceboook, then an alternitive to everything else. At one point I was even going to focus all my time and energy into a SaaS application I'm sure would've failed. I thought I was going to be the next Elon Musk, Mark Zuckerburg, and so on. What I sooned realized is that I was not and I am not that. I was lost so I started a factory job, I knew how to code but I didn't think I could break into the idustry with my felony. That's until I realized private sectors can hire you. Then I started planning.</p>
 
-<p>I asked myself: "Where can I get hired?", "What certs do I need?" "Will I really be able to do any of this?". I soon realized I could. So now I am taking the actions I need to secure not only my future but the future of possible children I may have.</p>
+<p>I asked myself: "Where can I get hired?", "What certs do I need?", "Will I really be able to do any of this?". I soon realized I could. So now I am taking the actions I need to secure not only my future but the future of possible children I may have.</p>
   
 </div>
 
 <div id="webdev">
 <h3>Web Development</h3>
   <h2>Where to start?</h2>
-  <p>All you need to start your coding journey is your iPad/Android Tablet, your phone, or a chromebook. You don't need to drop $1,500 on a brand new rig to start put small. Currently I am doing this off a Lenovo Ideapad that only has 4gb of ram and a 64 gb eMMC chip. That's not a whole lot, in some eyes it's a whole lot of nothing</p>
+  <p>All you need to start your coding journey is your iPad/Android Tablet, your phone, or a chromebook. You don't need to drop $1,500 on a brand new rig to start put small. Currently I am doing this off a Lenovo Ideapad that only has 4gb of ram and a 64 gb eMMC chip. That's not a whole lot, in some eyes it's a whole lot of nothing. You can start here <a href="codeacademy.com"> Code Academy</a>. It's as simple as connecting your device to the internet, which I assume you did since you're reading this</p>
 </div>
