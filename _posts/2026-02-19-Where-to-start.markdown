@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Where to start | Entry"
+title: "Where to start | Entry 1"
 date: 2026-02-19
 ---
 <div id="overview">
