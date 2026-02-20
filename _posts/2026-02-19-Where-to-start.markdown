@@ -3,9 +3,9 @@ layout: post
 title: "Where to start | Entry 1"
 date: 2026-02-19
 ---
-<!DOCTYPE html>
+
 <head>
-  <link rel="stylesheet" href="{{ '_site/assets/stylesheet.css' | relative_url }}">
+  <link rel="stylesheet">
 </head>
 
 <div class="card">
