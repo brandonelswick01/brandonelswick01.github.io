@@ -3,6 +3,7 @@ layout: post
 title: "Where to start | Entry 1"
 date: 2026-02-19
 ---
+<title>Where to start | Entry 1</title>
 <div id="overview">
 <h3>Overview</h3>
 <h2>Planning, Action, Execution</h2>
