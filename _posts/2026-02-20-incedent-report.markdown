@@ -3,8 +3,7 @@ layout: post
 title: "2026-IVN-01 | Entry 2"
 date: 2026-02-20
 ---
-<title>2026-IVN-01 | Entry 2</title>
-Incident Report ID:<a href="https://github.com/brandonelswick01/SOCPortfolio/blob/main/2026-IVN-01.md">2026-IVN-01</a>
+Incident Report ID: 2026-IVN-01
 
 Classification: High-Priority / Unauthorized Access Investigation
 
