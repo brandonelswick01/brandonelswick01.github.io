@@ -5,8 +5,7 @@ date: 2026-02-19
 ---
 <!DOCTYPE html>
 <head>
-<title>Where to start | Entry 1</title>
-  <link rel="stylesheet" href="{{ '/assets/stylesheet.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '_site/assets/stylesheet.css' | relative_url }}">
 </head>
 
 <div class="card">
