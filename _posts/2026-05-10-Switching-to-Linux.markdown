@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Switching to Linux"
+title: "Switching to Linux | Entry 3"
 date: 2026-05-10
 ---
 
