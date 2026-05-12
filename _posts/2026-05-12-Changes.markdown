@@ -1,0 +1,22 @@
+# Introduction
+I have a few things I need to change around here. One I will be documenting everything from now on. As an independent researcher trying to make a career as a SOC Analyst - one IR report and a blog on why Linux is great isn't going to cut it. So I'll be listing in the [About Me]() section of this blog, ultimately this is a portfolio, and I need to treat it as such. In this section of the portfolio you'll be able to find various certifications and walkthroughs on HackTheBox Labs. These won'y just be Blue Team related stuff. This will be a mix of: System Administration, Blue Team, and Red Team.
+
+# Why this is important to me
+
+This is important due to a few reasons
++ Reason 1: Showcasing my skills is like building a brand. There is nothing special about me unless I make myself stan out.
+
++ Reason 2: Anyone can get the certifications and have theoretical knowledge on various topics.
+
++ Reason 3: Last and not least it is important to show employers that I can do what I say I can do. This blog and these courses give me the practical hands-on training that I will need out in the real world.
+
+# Where will I be starting?
+I'll be starting right back at the start. Linux Fundamentals. Why choose *Linux fundamentals* as my first start. So I can go over what I know about Linux and learn more, that goes for *Windows and MacOS* also.
+
+Once I am finished with those three courses it's onto *Introduction to Networking* from [SecurityBlueTeam]() and [HackTheBox](). I'm building my own roadmap to success in the Cyber Security Industry.
+
+# I have a Felony
+
+Yes, I have a felony for grand larceny stemming from a stupid choice when I was nineteen years old. Have I let that stop me? No. Have I been in-trouble since then? Absolutely not. People make mistakes. I made a mistake, dropped out of college, then got a felony conviction. All it takes is one mistake.
+
+I'm twenty-four now, I've changed my life around. I've spent the better part of five years bettering myself so I can have a better future. I can't get a government job in CyberSec. I hope to get a job in the private sector. I hope to eventually build businesses. All this can be done if I stick to it.
