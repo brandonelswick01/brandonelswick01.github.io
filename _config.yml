@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Brandon Elswick | SOC Analyst
+title: Brandon Elswick | Researcher and Developer
 email: socanalyst2026@atomicmail.io
 description: >- # this means to ignore newlines until "baseurl:"
- Hello, I am Brandon Elswick. I am a independent researcher becoming a SOC Analyst. I hope you enjoy!
+ Hello, I am Brandon Elswick. I am a independent researcher and software developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
