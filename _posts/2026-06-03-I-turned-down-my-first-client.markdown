@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I turned down my first client (and I'd do it again)"
+title: "I turned down my first client (and I'd do it again) | Entry 3"
 date: 2026-06-03
 ---
 I had my first consultation today as a freelance developer. What happened? Did I secure a deal? Am I building a site for a client as we speak?
